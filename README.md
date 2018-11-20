@@ -1,0 +1,2 @@
+# SWGBHLauncher
+SWG Launcher
